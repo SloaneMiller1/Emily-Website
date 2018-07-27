@@ -1,0 +1,42 @@
+.fontalltime{
+ font-family: 'Ubuntu', sans-serif;
+ font-size: 20px;
+
+}
+
+body{
+  text-align: center;
+  background-color: #ff471a;
+
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 21px;
+}
+h1 {
+   color:#cc3300;
+}
+.author {
+  width: 1000px;
+  padding: 10px;
+  border: 5px solid #660066;
+  margin: auto;
+  display: block;
+  background-color:  #ffffff;
+}
+
+.photoblocks {
+    width: 200px;
+    padding: 10px;
+    border: 5px solid #660033;
+    background-color: #ccff33;
+    margin: auto;
+    display: block;
+}
+
+  .foodblocks {
+      width: 720px;
+      padding: 10px;
+      border: 5px solid #660033;
+      margin: auto;
+      background-color: #ffcc00;
+      display: block;
+  }
